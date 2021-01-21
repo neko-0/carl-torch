@@ -1,0 +1,5 @@
+[console_scripts]
+carl-calibrate = calibrate:main
+carl-train = train:main
+carl-validate = validate:main
+
